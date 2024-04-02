@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @King5490
 - 👀 I’m interested in robot programming and control theory
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently working on RL and MPC
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
